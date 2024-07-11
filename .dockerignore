@@ -1,0 +1,18 @@
+**.git
+**.lambda
+**.gitignore
+**.dockerignore
+**.gitattributes
+**.editorconfig
+**.github
+# .env.example
+# composer.lock
+/vendor/
+/tests/
+
+phpunit.xml
+README.md
+version.yaml
+Dockerfile
+docker-compose.yml
+**.DS_Store
